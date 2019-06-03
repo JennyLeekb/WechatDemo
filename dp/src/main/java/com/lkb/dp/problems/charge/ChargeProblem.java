@@ -1,4 +1,4 @@
-package com.lkb.dp.problems;
+package com.lkb.dp.problems.charge;
 
 import java.util.Arrays;
 
